@@ -25,5 +25,5 @@ int main() {
 
     printf("%d", max_of_four(a, b, c, d));
 
-    return 0;  
-}                        
+    return 0;
+}
